@@ -1,0 +1,8 @@
+com\test\asos\runner\RunCukesTest.class
+com\test\asos\pages\AsosBasketPage.class
+com\test\asos\pages\AsosSearchResultPage.class
+com\test\asos\pages\AsosSaveLaterPage.class
+com\test\asos\pages\AsosHomePage.class
+com\test\asos\pages\AbstractPage.class
+com\test\asos\pages\AsosProductPage.class
+com\test\asos\stepDefs\AsosSearchStepDefs.class
